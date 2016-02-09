@@ -1,0 +1,28 @@
+name: kirill
+favicon: null
+layout_spectrum: 0.5891699038911611
+typography_spectrum: 0.7649205485358834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.32516777655109763
+  lightness: 0.949575231410563
+  saturation: 0.577826059423387
+  rhythmicContrast: 0.7664163298904896
+purpose: []
