@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kirill]]></title>
+        <description><![CDATA[kirill]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 19:58:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Профессиональный организатор конференций и конгрессов, деловых мероприятий]]></title>
+            <description><![CDATA[<article><h1>Профессиональный организатор конференций и конгрессов, деловых мероприятий</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93c73fd1d4bc27637d9d79f5a7feef17a7fdc894.jpg"></article>]]></description>
+            <link>undefined336509a9-5afb-49a0-a016-38d76a0a524e/index.html</link>
+            <guid isPermaLink="false">336509a9-5afb-49a0-a016-38d76a0a524e</guid>
+            <pubDate>Mon, 15 Feb 2016 19:57:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
