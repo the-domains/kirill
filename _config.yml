@@ -1,8 +1,30 @@
-layout_spectrum: 0.04680851
+typography_spectrum: 0.7649205485358834
+color:
+  saturation: 0.3042553
+  brandStrength: 0.3251677765510976
+  lightness: 0.4425532
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  rhythmicContrast: 0.8553191
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.04680851
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: kirill
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +38,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.3042553
-  brandStrength: 0.3251677765510976
-  lightness: 0.4425532
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  rhythmicContrast: 0.8553191
-typography_spectrum: 0.7649205485358834
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: kirill
